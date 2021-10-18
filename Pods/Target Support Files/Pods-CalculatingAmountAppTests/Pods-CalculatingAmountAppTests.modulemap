@@ -1,0 +1,6 @@
+framework module Pods_CalculatingAmountAppTests {
+  umbrella header "Pods-CalculatingAmountAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
